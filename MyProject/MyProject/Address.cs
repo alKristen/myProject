@@ -4,11 +4,6 @@ namespace test
 {
     internal class Address
     {
-        //public int House;
-        //public int Flat;
-        //public string street;
-        //public string City 
-
         private const int Max_Home_Number = 1000;
         private const int Max_Flat_Number = 10000;
 
