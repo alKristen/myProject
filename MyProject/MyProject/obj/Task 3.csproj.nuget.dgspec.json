@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\myProject\\MyProject\\MyProject\\MyProject.csproj": {}
+    "C:\\Users\\user\\source\\repos\\Task 3\\Task 3\\Task 3.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\myProject\\MyProject\\MyProject\\MyProject.csproj": {
+    "C:\\Users\\user\\source\\repos\\Task 3\\Task 3\\Task 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\myProject\\MyProject\\MyProject\\MyProject.csproj",
-        "projectName": "MyProject",
-        "projectPath": "C:\\Projects\\myProject\\MyProject\\MyProject\\MyProject.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Task 3\\Task 3\\Task 3.csproj",
+        "projectName": "Task 3",
+        "projectPath": "C:\\Users\\user\\source\\repos\\Task 3\\Task 3\\Task 3.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\myProject\\MyProject\\MyProject\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\Task 3\\Task 3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
