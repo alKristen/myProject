@@ -7,9 +7,11 @@ namespace Task_3
     {
         public Course Course { get; set; }
 
-        public Teacher (UniversityEmployee universityEmployee, Course course) : base (universityEmployee)
-        {
-            Course = Course;
+
+        public Teacher(Person personEmployee, int taxID, Course course) : base(personEmployee, taxID)
+        { 
+            Course = course;
         }
+        
     }
 }
